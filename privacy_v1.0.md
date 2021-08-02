@@ -1,4 +1,4 @@
-[돌아가기](./)
+[돌아가기](https://indexmine.github.io/docs)
 
 # (주)인덱스마인 개인정보처리방침
 
